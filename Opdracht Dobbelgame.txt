@@ -1,0 +1,31 @@
+Python Opdracht: Dobbelsteen
+
+Maak in Python een eenvoudige dobbelsteen simulator.
+
+Het hoeft niet grafisch, maar mag uiteraard wel.
+
+Het programma moet jou eerst gaan vragen met hoeveel dobbelstenen je wilt gaan gooien.
+Het moeten minimaal 3 dobbelstenen zijn en mogen maximaal 5 dobbelstenen zijn.
+
+Vervolgens gaat het programma de dobbelsten laten "rollen". Daarna moet hij gaan aangeven
+hoeveel waarde elke dobbelsteen heeft gekregen en ook wat de totale waarde is.
+
+Je moet je even indenken dat jouw dobbelstenen nu dus op tafel liggen en dat de waarden die
+je hebt gegooid dus aan de bovenkant te zien zijn. Geef dan ook even aan wat dan de waarde
+per dobbelsteen is en het totaal, als je de onderkanten van de dobbelstenen zou gaan tellen.
+
+Als het systeem minimaal 3x een "zes" heeft gegooid, moet er een leuke tekst verschijnen die
+dat duidelijk aangeeft.
+
+Het programma moet aan het eind van de cyclus vragen of je nogmaals zou willen gooien en zo ja,
+opnieuw met hoeveel dobbelstenen.
+
+Zet vooral ook duidelijke "remarks" in de code, zodat duidelijk is hoe het programma werkt.
+
+Het is wel de bedoeling dat je e.e.a. zelf bedenkt. Even ideeën opdoen vanuit je boek of Google mag
+uiteraard wel, maar je moet ook zelf wel zoveel mogelijk bedenken.
+
+Laat het programma er ook "netjes" uitzien, dus met duidelijke teksten.
+
+Maak ook eerst even een eenvoudig blokschema/schetsje hoe het programmaverloop zal moeten worden.
+

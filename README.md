@@ -34,7 +34,10 @@ At the bottom left of the application you can see how much money you have invest
 ## Preview
 
 ![screenshot_start](Showcase/screenshot_start.png?raw=true '"Choose your Pick"')
+Choose your Pick
 
 ![screenshot_lost](Showcase/screenshot_lost.png?raw=true '"You lost!"')
+You lost!
 
 ![screenshot_win](Showcase/screenshot_win.png?raw=true '"Winner!"')
+Winner!

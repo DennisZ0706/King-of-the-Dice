@@ -2,9 +2,9 @@
 
 ## The App
 
-"King of the Dice" is the ultimate gambling game that allows you to win a jackpot of 100 euros in just one throw! The only thing you need to do is just throw 6 sixes to become a jackpot winner. 
+"King of the Dice" is the ultimate gambling game where you can hit a jackpot of 100 euros in just one roll! The only thing you need to do is just throw 4 sixes to become a winner. 
 
-By default you play with at least 4 dice where you can even increase your stake to 6 dice! Buy-in is only one euro per dice. Do you think this is too expensive? Do not hesitate! Because when the total of the top of your dice is higher than the bottom of your roll, you even get the turn for free.
+By default you play with at least 4 dice. But you can increase your stake to 6 dice! Buy-in is only one euro per dice. Do you think this is too expensive? Do not hesitate! Because when the total of the top of your dice is higher than the bottom of your roll, you get the turn for free!
 
 
 ## Libraries used
@@ -24,11 +24,11 @@ By default you play with at least 4 dice where you can even increase your stake 
 
 ## How it works
 
-Choose how many dice you want to play with and enter this in the input field. Then when you click on “Roll” the dice will be rolled to see if you are a lucky winner. 
+Choose how many dice you want to play with and enter this in the input field. Then click on “Roll” to roll the dice and see if you are a lucky winner. 
 
-If you want to roll again, click on “Opnieuw” and you can choose your number of dice again. Have you lost or won and you want to quit? Then click on “Uitbetalen” to close the game and to cash out any winnings. 
+If you want to roll again, click on “Opnieuw” where you can choose your number of dice again. Have you lost or won and you want to quit? Then click on “Uitbetalen” to close the game and cash out any winnings. 
 
-At the bottom left of the application you can see how much money you have invested and how much you have won. When you lose, these fields will turn red. If you win, they turn green. 
+At the bottom left of the application you can see how much money you have invested and how much money you have won. When you lose, these fields will turn red. If you win, they turn green. 
 
 
 ## Preview
